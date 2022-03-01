@@ -1,5 +1,5 @@
 # Formularios
 
-## Repositorio con formularios en HTML, CSS y JS
+## Formulario responsive con HTML y CSS
 
 ![Screenshot](Cap.jpg)
